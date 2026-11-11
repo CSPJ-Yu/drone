@@ -1,0 +1,4 @@
+# Install before requirements.txt to use NVIDIA CUDA on this PC.
+--index-url https://download.pytorch.org/whl/cu128
+torch==2.7.1
+torchvision==0.22.1
